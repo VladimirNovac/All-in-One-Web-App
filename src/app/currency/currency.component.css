@@ -1,0 +1,50 @@
+.card {
+    width:20rem;
+    height:25rem;
+    border: 1px solid #f29100;
+    border-radius: 15px;
+    overflow-y: hidden;
+    text-align: left;
+    background-color: #232324;
+}
+
+h5, h4 {
+    color: #f29100 ;
+    font-size: small;
+    font-family: Depot;
+}
+
+p {
+    color: white;
+    font-size: smaller;
+    font-weight: 300;
+
+}
+
+h5 {
+    color: #f29100 ;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+th {
+    color: #f29100;
+    padding: 15px
+}
+
+td {
+    color: white;
+}
+
+.currency {
+    font-weight: 600;
+}
+
+.currencyText {
+    text-align: right;
+}
+
+tr {
+    padding: 15px;
+    border-bottom: 2px dotted gray; 
+}

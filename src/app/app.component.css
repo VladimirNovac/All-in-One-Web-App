@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Depot';
+    src: url('../assets/fonts/Light/Depot-Light.woff2') format('woff2'),
+        url('../assets/fonts/Light/Depot-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Depot';
+    src: url('../assets/fonts/Regular/Depot-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Regular/Depot-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Depot';
+    src: url('../assets/fonts/Medium/Depot-Medium.woff2') format('woff2'),
+        url('../assets/fonts/Medium/Depot-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Depot';
+    src: url('../assets/fonts/Bold/Depot-Bold.woff2') format('woff2'),
+        url('../assets/fonts/Bold/Depot-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
